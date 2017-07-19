@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">Green Light Technologies, LLC</h3>
   <p align="center">
-    Visit us at <a href="www.greenlighttech.c">www.greenlighttech.com</a>
+    Visit us at <a href="www.greenlighttech.com">www.greenlighttech.com</a>
   </p>
 </p>
 <br>
